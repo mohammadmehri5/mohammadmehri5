@@ -1,8 +1,8 @@
 # Hi 👋 I'm Mohammad
 
 ## About Me
-Web developer passionate about minimal design and creating smooth user experiences.  
-I enjoy working with both frontend and backend technologies and continuously learning new tools.
+Web developer passionate about `minimal design` and creating `smooth user experiences`.  
+Focused on building `modern web applications` with both `frontend` and `backend` technologies.
 
 ## Skills
 
