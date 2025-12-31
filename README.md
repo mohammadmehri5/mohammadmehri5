@@ -1,7 +1,7 @@
 # Hi 👋 I'm Mohammad
 
 ## About Me
-Web Developer specializing in `Frontend` and `Backend` development using `React`, `Next.js`, and `Laravel`.
+Web Developer specializing in `Frontend` and `Backend` development using `React`, `Next.js`, and `Laravel`.  
 Passionate about `minimal design` and creating `smooth user experiences`.
 
 ## Skills
