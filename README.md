@@ -22,6 +22,7 @@ Passionate about `minimal design` and creating `smooth user experiences`.
 <p align="center">
   &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/> &nbsp;&nbsp;
   &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="50" height="50"/> &nbsp;&nbsp;
+  &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="50" height="50"/> &nbsp;&nbsp;
 </p>
 
 - ### Tools
