@@ -29,6 +29,8 @@ Passionate about `minimal design` and creating `smooth user experiences`.
 <p align="center">
   &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/> &nbsp;&nbsp;
   &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="50" height="50"/> &nbsp;&nbsp;
+  &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> &nbsp;&nbsp;
+  &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/> &nbsp;&nbsp;
   &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="50" height="50"/> &nbsp;&nbsp;
   &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" width="50" height="50"/> &nbsp;&nbsp;
 </p>
