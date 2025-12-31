@@ -1,8 +1,8 @@
 # Hi 👋 I'm Mohammad
 
 ## About Me
-Web developer passionate about `minimal design` and creating `smooth user experiences`.  
-Focused on building `modern web applications` with both `frontend` and `backend` technologies.
+Web Developer specializing in `Frontend` and `Backend` development using `React`, `Next.js`, and `Laravel`.
+Passionate about `minimal design` and creating `smooth user experiences`.
 
 ## Skills
 
